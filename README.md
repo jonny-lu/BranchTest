@@ -6,3 +6,4 @@ BranchTest
 * Create a new branch: new_branch.
 * This is branch: testing.
 * After branch(new_branch) merged.
+# Back to master. Wait for rebasing.
