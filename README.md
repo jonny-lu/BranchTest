@@ -1,2 +1,4 @@
 BranchTest
 ==========
+
+* This is master.
