@@ -8,3 +8,4 @@ BranchTest
 * After branch(new_branch) merged.
 * Create a rebase test branch.
 * Back to master. Wait for rebasing.
+* GitHub server side edit.
